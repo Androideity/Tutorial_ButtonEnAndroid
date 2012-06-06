@@ -1,0 +1,7 @@
+Proyecto que muestra las propiedades básicas del componente Button en Android.
+
+- Declaración de un Button en XML y propiedades básicas.
+- Creación de recurso en la carpeta drawable.
+- Manejo de los estados de un Button a través de XML.
+
+Ver tutorial: http://androideity.com/2011/07/12/widgets-basicos-en-android-ii-botones-e-imagenes/
